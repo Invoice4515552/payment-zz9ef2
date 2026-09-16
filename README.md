@@ -1,8 +1,10 @@
 16-Sep-2026
 
-<!-- notify 1/2 · 6WvjQn8F -->
-## Notification 1/2
-Round: Round 1
-To: angelgurl36054@yahoo.com, angelgurl71822@yahoo.com
-At: 2026-09-16 15:15:32
-Id: 6WvjQn8F
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2
+Round: Round 2
+To: angelgwalker80@yahoo.com, angelhartsell@yahoo.com
+At: 2026-09-16 15:15:40
+Id: ZCex3J9r
